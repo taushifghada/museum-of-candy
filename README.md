@@ -1,2 +1,2 @@
-# museum-of-candy.github.io
+# museum-of-candy
 Created a responsive page with collapsible navbar.
